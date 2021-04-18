@@ -1,0 +1,10 @@
+html, body {
+    height: 100%;
+    margin: 0;
+}
+.bkg {
+    background-color: darkgrey;
+    display: flex;
+    flex-flow: column;
+    height: 100%;
+}

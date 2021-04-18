@@ -1,0 +1,10 @@
+.jumbotron {
+  margin-top: 25vh;
+}
+
+.bkg {
+  background-color: darkgrey;
+  display: flex;
+  flex-flow: column;
+  height: 100%;
+}

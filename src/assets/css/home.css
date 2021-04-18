@@ -1,0 +1,24 @@
+html, body {
+    height: 100%;
+    margin: 0;
+}
+.bkg {
+    background-color: darkgrey;
+    display: flex;
+    flex-flow: column;
+    height: 100%;
+}
+.whoAre {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+#whoList {
+    list-style: none;
+    text-align: center;
+    font-size: medium;
+    /* display: flex; */
+    justify-content: center;
+    align-items: center;
+}
